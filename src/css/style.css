@@ -45,7 +45,7 @@ a:focus {
   margin-bottom: 4rem;
   font-weight: bold;
   line-height: 1.45;
-  font-size: 4rem;
+  font-size: 3.8rem;
   text-transform: uppercase;
 }
 .main-subtitle {
@@ -94,7 +94,8 @@ a:focus {
 }
 .main-form label {
   position: absolute;
-  left: 64,5%;
+  left: 50%;
+
   transform: translateX(-50%) translateY(-50%);
   padding: 0.5rem;
   background-color: #ffffff;
@@ -123,8 +124,8 @@ a:focus {
 .phone_link {
   display: inline-block;
   color: #1a1820;
-  font-weight: 900;
+  font-weight: 700;
   text-decoration: none;
-  font-size: 2rem;
+  font-size: 1.9rem;
   line-height: 7rem;
 }
